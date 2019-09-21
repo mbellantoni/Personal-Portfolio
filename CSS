@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+  min-height: 100%;
+}
+
+@media (min-width: 300px) {
+  .container {
+    width:auto;
+    heigh:auto;
+  }
+}
+
+#html {
+  height:100%;
+}
+
+#welcome-section {
+  height: 100vh;
+  width: 100vh;
+}
+
+#navbar {
+  position: fixed;
+  top: 0px;
+}
+
+#projects { 
+height: 500px;
+width: 500px;
+}
